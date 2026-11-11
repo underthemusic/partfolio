@@ -1,0 +1,334 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    background-color: #1F242D;
+    height: 800px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.navbar h2 {
+    padding-right: 520px;
+    font-size: 36px;
+    color: white;
+}
+
+.nav_items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.nav_items a {
+    color: white;
+    font-size: 17px;
+    transition: 0.5s;
+}
+
+.nav_items a:hover {
+    color: #00EEFF;
+}
+
+.ota {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.ona {
+    margin-right: 245px;
+}
+
+.ona h3 {
+    color: white;
+    font-size: 32px;
+}
+
+.abu {
+    color: #00EEFF;
+}
+
+.ona h1 {
+    color: white;
+    font-size: 52px;
+}
+
+.axa {
+    color: #00EEFF;
+}
+
+.text {
+    color: white;
+    font-size: 32px;
+}
+
+.text span {
+    color: #00EEFF;
+}
+
+.malumot {
+    font-size: 15px;
+    color: gray;
+    padding-top: 10px;
+}
+
+.logos {
+    display: flex;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.btn {
+    width: 175px;
+    height: 44px;
+    border-radius: 40px;
+    background-color: #00EEFF;
+    cursor: pointer;
+    border: none;
+    margin-left: 30px;
+    transition: 0.7s;
+    font-size: 24px;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+}
+
+.infos {
+    height: 800px;
+    background-color: #1F242D;
+}
+
+.Menu {
+    text-align: center;
+    font-size: 53px;
+    padding-top: 30px;
+    color: white;
+}
+
+.spin {
+    color: #00EEFF;
+}
+
+.loyihala {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 130px;
+}
+
+.bola {
+    width: 360px;
+    height: 340px;
+    background-color: #323946;
+    border: none;
+    border-radius: 22px;
+    transition: 0.7s;
+
+}
+
+.bola:hover{
+       transform: translateY(-5px);
+}
+
+.bola h1 {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bola p {
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.aklma {
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    position: relative;
+    top: 33px;
+}
+
+.silka {
+    color: orange;
+}
+
+.reg {
+    width: 144px;
+    height: 38px;
+    border-radius: 40px;
+    background-color: #00EEFF;
+    cursor: pointer;
+    border: none;
+
+    transition: 0.7s;
+    font-size: 15px;
+}
+
+.reg:hover {
+    background-color: aliceblue;
+}
+
+.regis {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    gap: 20px;
+}
+
+.regismist {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 20px;
+}
+
+.register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.dust2 {
+    background-color: #323946;
+    height: 800px;
+}
+
+.wert {
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    padding-top: 90px;
+}
+
+.wert span {
+    color: #00EEFF;
+}
+
+.loyihacalar {
+    background-color: #1f242d;
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 10px;
+}
+
+.general {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 70px;
+}
+
+.aliwer {
+    background-color: #1f242d;
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.one {
+    border-radius: 10px;
+}
+
+.two {
+    border-radius: 10px;
+}
+
+.nomi_1 {
+    color: white;
+    font-size: 27px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.zamonu {
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 19px;
+    color: gray;
+
+}
+
+.boxes {
+    width: 175px;
+    height: 37px;
+    border-radius: 40px;
+    background-color: #00EEFF;
+    cursor: pointer;
+    border: none;
+    margin-left: 370px;
+    transition: 0.7s;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.boxes:hover {
+    background-color: aliceblue;
+}
+
+.vasiya {
+    font-size: 27px;
+    color: orange;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.bukun{
+        padding-left: 30px;
+    padding-top: 10px;
+    font-size: 19px;
+    color: gray;
+}
+.boxs{
+        width: 175px;
+    height: 37px;
+    border-radius: 40px;
+    background-color: #00EEFF;
+    cursor: pointer;
+    border: none;
+    margin-left: 370px;
+    transition: 0.7s;
+    font-size: 15px;
+    margin-top: 15px;
+}
+footer{
+    height: 80px;
+    background-color: black;
+    
+}
+
+.copy{
+    color: white;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
